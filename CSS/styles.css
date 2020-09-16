@@ -682,6 +682,9 @@ ul {
   h1 {
     transform: scale(0.5);
   }
+  body {
+    color: blue;
+  }
 }
 
 @media (max-width: 400px) {
