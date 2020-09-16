@@ -672,6 +672,12 @@ ul {
   }
 }
 
+@media (max-width: 500px) {
+  .modal-content {
+    transform: scale(0.5);
+  }
+}
+
 @media (max-width: 854px) {
   h1 {
     text-align: center;
