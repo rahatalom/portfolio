@@ -684,7 +684,8 @@ ul {
     justify-content: space-between;
   }
   h1 {
-    font-size: 2.4rem;
+    font-size: 3.4rem;
+    padding: 50px 60px 0 60px;
   }
 }
 
