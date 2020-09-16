@@ -187,7 +187,7 @@
 
 .proj-4-box {
   background-color: #eb8f8f;
-  width: 555px;
+  /* width: 555px; */
   box-shadow: 0 4px 8px 2px rgba(0, 0, 0, 0.8),
     0 6px 20px 2px rgba(0, 0, 0, 0.8);
 }
