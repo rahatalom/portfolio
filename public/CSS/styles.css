@@ -672,6 +672,24 @@ ul {
   }
 }
 
+@media (max-width: 500px) {
+  .modal-content {
+    transform: scale(0.6);
+  }
+}
+
+@media (max-width: 400px) {
+  h1 {
+    transform: scale(0.5);
+  }
+}
+
+@media (max-width: 400px) {
+  h3 {
+    transform: scale(0.5);
+  }
+}
+
 @media (max-width: 854px) {
   h1 {
     text-align: center;
@@ -739,6 +757,14 @@ ul {
     font-size: 1.9rem;
   }
 }
+
+@media (max-width: 500px) {
+  .intro-title {
+    text-align: center;
+    font-size: 1.5rem;
+  }
+}
+
 @media (max-width: 1357px) {
   .row {
     text-align: center;
