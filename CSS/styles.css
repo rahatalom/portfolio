@@ -683,7 +683,7 @@ ul {
     transform: scale(0.5);
   }
   body {
-    color: blue;
+    background-color: blue;
   }
 }
 
