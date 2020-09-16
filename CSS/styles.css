@@ -678,16 +678,16 @@ ul {
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 400px) {
   h1 {
-    text-align: center;
+    margin: 0 auto;
     font-size: 2rem;
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 400px) {
   h3 {
-    text-align: center;
+    margin: 0 auto;
     font-size: 1.3rem;
   }
 }
