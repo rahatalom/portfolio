@@ -719,7 +719,7 @@ ul {
 }
 @media (max-width: 440px) {
   h1 {
-    font-size: 1.4rem;
+    font-size: 1.8rem;
     text-align: center;
   }
 
@@ -729,7 +729,7 @@ ul {
   .btn {
     margin-bottom: 16px;
 
-    transform: scale(0.8);
+    transform: scale(0.7);
   }
 }
 
@@ -745,7 +745,7 @@ ul {
   .see-proj {
     margin-bottom: 8px;
 
-    transform: scale(0.8);
+    transform: scale(0.65);
   }
 }
 
@@ -802,7 +802,7 @@ ul {
 
 @media (max-width: 440px) {
   .intro-title {
-    font-size: 0.82rem;
+    font-size: 1.1rem;
     text-align: center;
   }
   .intro-div {
@@ -825,7 +825,7 @@ ul {
 
 @media (max-width: 380px) {
   .intro-title {
-    font-size: 0.62rem;
+    font-size: 0.6rem;
     text-align: center;
   }
   .intro-div {
