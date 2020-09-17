@@ -824,8 +824,7 @@ ul {
     width: 116px;
   }
   .first-set {
-    width: 8rem;
-    height: 14rem;
+    transform: scale(0.8);
   }
   .card1 {
     height: 300px;
@@ -870,8 +869,7 @@ ul {
     width: 88px;
   }
   .first-set {
-    width: 6rem;
-    height: 12rem;
+    transform: scale(0.7);
   }
   .card1 {
     height: 290px;
