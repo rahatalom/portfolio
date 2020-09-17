@@ -802,7 +802,7 @@ ul {
 
 @media (max-width: 440px) {
   .intro-title {
-    font-size: 0.85rem;
+    font-size: 0.82rem;
     text-align: center;
   }
   .intro-div {
@@ -817,11 +817,15 @@ ul {
     height: 133px;
     width: 133px;
   }
+  first-set {
+    width: 10rem;
+    height: 16rem;
+  }
 }
 
 @media (max-width: 380px) {
   .intro-title {
-    font-size: 0.65rem;
+    font-size: 0.62rem;
     text-align: center;
   }
   .intro-div {
@@ -835,6 +839,10 @@ ul {
   .intro-img {
     height: 126px;
     width: 126px;
+  }
+  first-set {
+    width: 8rem;
+    height: 14rem;
   }
 }
 
