@@ -885,6 +885,11 @@ ul {
   }
 }
 
+.intro-img {
+  height: 153px;
+  width: 153px;
+}
+
 @media (max-width: 320px) {
   .intro-title {
     font-size: 0.45rem;
