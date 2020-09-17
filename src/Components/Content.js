@@ -4,11 +4,8 @@ function Content() {
   return (
     <div className="outer2">
       <div className="intro-div">
-        <div class="row">
-          <div class="col-12 col-xl-12">
-            <h1 className="intro-title"> Front End Focused</h1>
-          </div>
-        </div>
+        <h1 className="intro-title"> Front End Focused</h1>
+
         <div class="row">
           <div class="col-12 col-xl-6">
             <h3 class="intro-sub-title">Driven To Deliver Results</h3>
