@@ -110,10 +110,6 @@
     url("https://www.crazyanimalface.co.uk/images/W-2-1.gif");
 }
 
-.first-set {
-  width: 14rem;
-  height: 20rem;
-}
 .cardText {
   margin-top: 28px;
 
@@ -130,6 +126,9 @@
 }
 
 .first-set {
+  text-align: center;
+  width: 14rem;
+  height: 20rem;
   box-shadow: 0 4px 8px 2px rgba(0, 0, 0, 0.6),
     0 6px 20px 2px rgba(0, 0, 0, 0.6);
   background-image: linear-gradient(
