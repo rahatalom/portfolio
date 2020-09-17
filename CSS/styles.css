@@ -719,30 +719,37 @@ ul {
 }
 @media (max-width: 440px) {
   h1 {
-    font-size: 2.3rem;
+    font-size: 1.6rem;
     text-align: center;
   }
 
-  .btn {
-    transform: scale(0.8);
+  h3 {
+    padding-bottom: 0;
   }
 
   .title {
+    padding: 0;
+  }
+  .btn {
+    margin-bottom: 16px;
+
     transform: scale(0.8);
   }
 }
 
 @media (max-width: 380px) {
   h1 {
-    font-size: 2rem;
+    font-size: 1.3rem;
     text-align: center;
-  }
-  btn {
-    transform: scale(0.7);
   }
 
   .title {
-    transform: scale(0.7);
+    padding: 0;
+  }
+  .see-proj {
+    margin-bottom: 8px;
+
+    transform: scale(0.8);
   }
 }
 
