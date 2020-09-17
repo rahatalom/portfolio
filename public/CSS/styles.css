@@ -110,6 +110,10 @@
     url("https://www.crazyanimalface.co.uk/images/W-2-1.gif");
 }
 
+first-set {
+  width: 14rem;
+  height: 20rem;
+}
 .cardText {
   margin-top: 28px;
 
@@ -732,7 +736,7 @@ ul {
   .btn {
     margin-bottom: 16px;
 
-    transform: scale(0.7);
+    transform: scale(0.65);
   }
 }
 
@@ -745,10 +749,10 @@ ul {
   .title {
     padding: 0;
   }
-  .see-proj {
+  .btn {
     margin-bottom: 8px;
 
-    transform: scale(0.65);
+    transform: scale(0.6);
   }
 }
 
