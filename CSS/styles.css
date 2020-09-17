@@ -723,6 +723,10 @@ ul {
     text-align: center;
   }
 
+  h3 {
+    padding-bottom: 0;
+  }
+
   .title {
     padding: 0;
   }
