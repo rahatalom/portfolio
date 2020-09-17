@@ -727,9 +727,9 @@ ul {
     padding: 0;
   }
   .btn {
-    padding-bottom: 22px;
+    margin-bottom: 16px;
 
-    width: 40%;
+    transform: scale(0.6);
   }
 }
 
