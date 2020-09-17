@@ -818,14 +818,30 @@ ul {
     width: 133px;
   }
   first-set {
-    width: 10rem;
-    height: 16rem;
+    width: 8rem;
+    height: 14rem;
+  }
+  .card1 {
+    height: 300px;
+    width: 205px;
+  }
+  .card2 {
+    height: 300px;
+    width: 205px;
+  }
+  .card3 {
+    height: 300px;
+    width: 205px;
+  }
+  .card4 {
+    height: 300px;
+    width: 205px;
   }
 }
 
 @media (max-width: 380px) {
   .intro-title {
-    font-size: 0.55rem;
+    font-size: 0.5rem;
     text-align: center;
   }
   .intro-div {
@@ -837,12 +853,28 @@ ul {
     font-size: 0.68rem;
   }
   .intro-img {
-    height: 126px;
-    width: 126px;
+    height: 116px;
+    width: 116px;
   }
   first-set {
-    width: 8rem;
-    height: 14rem;
+    width: 6rem;
+    height: 12rem;
+  }
+  .card1 {
+    height: 290px;
+    width: 195px;
+  }
+  .card2 {
+    height: 290px;
+    width: 195px;
+  }
+  .card3 {
+    height: 290px;
+    width: 195px;
+  }
+  .card4 {
+    height: 290px;
+    width: 195px;
   }
 }
 
