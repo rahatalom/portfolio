@@ -680,14 +680,14 @@ ul {
 
 @media (max-width: 440px) {
   h1 {
-    font-size: 2.2rem;
+    font-size: x-large;
     text-align: center;
   }
 }
 
 @media (max-width: 440px) {
   h3 {
-    font-size: 1.35rem;
+    font-size: 1.25rem;
     text-align: center;
   }
 }
