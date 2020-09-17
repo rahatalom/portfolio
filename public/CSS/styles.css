@@ -722,6 +722,7 @@ ul {
     font-size: 1.6rem;
     text-align: center;
   }
+
   .title {
     padding: 0;
   }
@@ -737,6 +738,7 @@ ul {
     font-size: 1.3rem;
     text-align: center;
   }
+
   .title {
     padding: 0;
   }
@@ -751,6 +753,20 @@ ul {
   h3 {
     text-align: center;
     font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 440px) {
+  h3 {
+    text-align: center;
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 380px) {
+  h3 {
+    text-align: center;
+    font-size: 1rem;
   }
 }
 
