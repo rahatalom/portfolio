@@ -845,7 +845,7 @@ ul {
 
 @media (max-width: 380px) {
   .intro-title {
-    font-size: 0.6rem;
+    font-size: 0.8rem;
   }
   .intro-title-div {
     display: flex;
