@@ -4,7 +4,10 @@ function Content() {
   return (
     <div className="outer2">
       <div className="intro-div">
-        <h1 className="intro-title"> Front End Focused</h1>
+        <div className="intro-title-div">
+          {" "}
+          <h1 className="intro-title"> Front End Focused</h1>
+        </div>
 
         <div class="row">
           <div class="col-12 col-xl-6">

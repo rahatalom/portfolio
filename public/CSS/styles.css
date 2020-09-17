@@ -841,7 +841,10 @@ ul {
 
 @media (max-width: 380px) {
   .intro-title {
-    transform: scale(0.8);
+    font-size: 0.7rem;
+  }
+  .intro-title-div {
+    white-space: nowrap;
   }
   .intro-div {
     text-align: center;
