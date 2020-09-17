@@ -732,6 +732,21 @@ ul {
   }
 }
 
+@media (max-width: 380px) {
+  h1 {
+    font-size: 1.3rem;
+    text-align: center;
+  }
+  .title {
+    padding: 0;
+  }
+  .see-proj {
+    margin-bottom: 8px;
+
+    transform: scale(0.8);
+  }
+}
+
 @media (max-width: 690px) {
   h3 {
     text-align: center;
@@ -770,6 +785,13 @@ ul {
 @media (max-width: 440px) {
   .intro-title {
     font-size: 1.15rem;
+    text-align: center;
+  }
+}
+
+@media (max-width: 380px) {
+  .intro-title {
+    font-size: 1rem;
     text-align: center;
   }
 }
