@@ -837,22 +837,19 @@ ul {
     height: 300px;
     width: 205px;
   }
-}
-
-@media (max-width: 400px) {
   .intro-title-div {
-    white-space: nowrap;
-    width: 160px;
+    display: flex;
+    flex-direction: column;
   }
 }
 
 @media (max-width: 380px) {
   .intro-title {
-    font-size: 0.7rem;
+    font-size: 0.6rem;
   }
   .intro-title-div {
-    white-space: nowrap;
-    width: 120px;
+    display: flex;
+    flex-direction: column;
   }
   .intro-div {
     text-align: center;
