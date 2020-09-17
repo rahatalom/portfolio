@@ -35,7 +35,10 @@
 }
 
 /*Content  */
-
+.intro-img {
+  height: 153px;
+  width: 153px;
+}
 .outer2 {
   padding: 10px 60px;
 }
@@ -883,11 +886,6 @@ ul {
     height: 290px;
     width: 195px;
   }
-}
-
-.intro-img {
-  height: 153px;
-  width: 153px;
 }
 
 @media (max-width: 320px) {
