@@ -718,7 +718,7 @@ ul {
   }
 }
 @media (max-width: 440px) {
-  h1 {
+  /* h1 {
     font-size: 1.6rem;
     text-align: center;
   }
@@ -734,6 +734,9 @@ ul {
     margin-bottom: 16px;
 
     transform: scale(0.8);
+  } */
+  .title {
+    transform: scale(0.7);
   }
 }
 
