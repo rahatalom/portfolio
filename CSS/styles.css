@@ -719,7 +719,7 @@ ul {
 }
 @media (max-width: 440px) {
   h1 {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     text-align: center;
   }
 
@@ -735,7 +735,7 @@ ul {
 
 @media (max-width: 380px) {
   h1 {
-    font-size: 1rem;
+    font-size: 0.8rem;
     text-align: center;
   }
 
@@ -760,14 +760,14 @@ ul {
   h3 {
     padding-bottom: 0;
     text-align: center;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
   }
 }
 
 @media (max-width: 380px) {
   h3 {
     text-align: center;
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     padding-bottom: 0;
   }
 }
