@@ -802,7 +802,7 @@ ul {
 
 @media (max-width: 440px) {
   .intro-title {
-    font-size: 0.86rem;
+    font-size: 0.85rem;
     text-align: center;
   }
   .intro-div {
@@ -813,11 +813,15 @@ ul {
   .intro-paragraph {
     font-size: 0.68rem;
   }
+  .intro-img {
+    height: 133px;
+    width: 133px;
+  }
 }
 
 @media (max-width: 380px) {
   .intro-title {
-    font-size: 0.66rem;
+    font-size: 0.65rem;
     text-align: center;
   }
   .intro-div {
@@ -827,6 +831,10 @@ ul {
   }
   .intro-paragraph {
     font-size: 0.68rem;
+  }
+  .intro-img {
+    height: 126px;
+    width: 126px;
   }
 }
 
