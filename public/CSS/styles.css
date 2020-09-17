@@ -823,7 +823,7 @@ ul {
     height: 116px;
     width: 116px;
   }
-  first-set {
+  .first-set {
     width: 8rem;
     height: 14rem;
   }
@@ -869,7 +869,7 @@ ul {
     height: 88px;
     width: 88px;
   }
-  first-set {
+  .first-set {
     width: 6rem;
     height: 12rem;
   }
