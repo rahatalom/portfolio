@@ -885,6 +885,12 @@ ul {
   }
 }
 
+@media (max-width: 320px) {
+  .intro-title {
+    font-size: 0.45rem;
+  }
+}
+
 @media (max-width: 1357px) {
   .row {
     text-align: center;
