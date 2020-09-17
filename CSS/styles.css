@@ -722,6 +722,14 @@ ul {
     font-size: 1.6rem;
     text-align: center;
   }
+  .title {
+    padding: 0;
+  }
+  .see-proj {
+    margin-bottom: 8px;
+
+    transform: scale(0.8);
+  }
 }
 
 @media (max-width: 690px) {
@@ -761,7 +769,7 @@ ul {
 
 @media (max-width: 440px) {
   .intro-title {
-    font-size: 1.25rem;
+    font-size: 1.15rem;
     text-align: center;
   }
 }
