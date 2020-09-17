@@ -723,8 +723,12 @@ ul {
     text-align: center;
   }
 
+  .btn {
+    transform: scale(0.8);
+  }
+
   .title {
-    transform: scale(0.7);
+    transform: scale(0.8);
   }
 }
 
@@ -733,9 +737,12 @@ ul {
     font-size: 2rem;
     text-align: center;
   }
+  btn {
+    transform: scale(0.7);
+  }
 
   .title {
-    transform: scale(0.6);
+    transform: scale(0.7);
   }
 }
 
