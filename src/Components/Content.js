@@ -23,21 +23,9 @@ function Content() {
             </p>
           </div>
           <div class="col-12 col-xl-6  ">
-            <img
-              class="intro-img"
-              style={{ height: "153px", width: "153px" }}
-              src="CSS/images/javascript.png"
-            ></img>
-            <img
-              class="intro-img"
-              style={{ height: "153px", width: "153px" }}
-              src="CSS/images/react.png"
-            ></img>
-            <img
-              class="intro-img"
-              style={{ height: "153px", width: "153px" }}
-              src="CSS/images/nodejs.png"
-            ></img>
+            <img class="intro-img" src="CSS/images/javascript.png"></img>
+            <img class="intro-img" src="CSS/images/react.png"></img>
+            <img class="intro-img" src="CSS/images/nodejs.png"></img>
           </div>
         </div>
       </div>

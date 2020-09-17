@@ -4,7 +4,7 @@ function Content2() {
   return (
     <div className="outer3">
       <div className="middle-div">
-        <div class="card first-set" style={{ width: "14rem", height: "20rem" }}>
+        <div class="card first-set">
           <div class="card-body">
             <img src="CSS/images/web-page.png"></img>
             <div className="cardText firstText">
@@ -18,7 +18,7 @@ function Content2() {
             </div>
           </div>
         </div>
-        <div class="card first-set" style={{ width: "14rem", height: "20rem" }}>
+        <div class="card first-set">
           <div class="card-body">
             <img src="CSS/images/share.png"></img>
             <div className="cardText secondText">
@@ -31,7 +31,7 @@ function Content2() {
             </div>
           </div>
         </div>
-        <div class="card first-set" style={{ width: "14rem", height: "20rem" }}>
+        <div class="card first-set">
           <div class="card-body">
             <img src="CSS/images/database.png"></img>
             <div className="cardText thirdText">
