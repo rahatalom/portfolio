@@ -680,7 +680,7 @@ ul {
 
 @media (max-width: 440px) {
   h1 {
-    font-size: small;
+    font-size: 1.8rem;
     text-align: center;
   }
   .title {
