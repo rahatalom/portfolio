@@ -680,7 +680,7 @@ ul {
 
 @media (max-width: 440px) {
   .modal-content {
-    transform: scale(0.67);
+    transform: scale(0.7);
   }
 }
 
@@ -838,16 +838,17 @@ ul {
     height: 116px;
     width: 116px;
   }
-  .intro-img:hover {
-    transform: scale(1.1) translateY(0.2rem);
+
+  .first-set {
+    transform: scale(0.9);
+  }
+  .first-set:hover {
+    transform: scale(1.01) translateY(0.2rem);
     -webkit-filter: drop-shadow(1.5px 1.5px 4px #222);
     filter: drop-shadow(1.5px 1.5px 4px #222);
     z-index: 20;
     box-shadow: 0 4px 8px 2px rgba(0, 0, 0, 0.7),
       0 6px 20px 2px rgba(0, 0, 0, 0.7);
-  }
-  .first-set {
-    transform: scale(0.9);
   }
   .card1 {
     height: 300px;
@@ -906,16 +907,17 @@ ul {
     height: 88px;
     width: 88px;
   }
-  .intro-img:hover {
-    transform: scale(1.1) translateY(0.2rem);
+
+  .first-set {
+    transform: scale(0.8);
+  }
+  .first-set:hover {
+    transform: scale(1.01) translateY(0.2rem);
     -webkit-filter: drop-shadow(1.5px 1.5px 4px #222);
     filter: drop-shadow(1.5px 1.5px 4px #222);
     z-index: 20;
     box-shadow: 0 4px 8px 2px rgba(0, 0, 0, 0.7),
       0 6px 20px 2px rgba(0, 0, 0, 0.7);
-  }
-  .first-set {
-    transform: scale(0.8);
   }
   .card1 {
     height: 290px;
