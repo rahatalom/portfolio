@@ -848,18 +848,10 @@ ul {
     padding: 10px 5px;
   }
 
-  .card1 {
-    transform: scale(0.8);
+  .flip-card {
+    transform: scale(0.9);
   }
-  .card2 {
-    transform: scale(0.8);
-  }
-  .card3 {
-    transform: scale(0.8);
-  }
-  .card4 {
-    transform: scale(0.8);
-  }
+
   .intro-title {
     font-size: 1.4rem;
     text-align: center;
@@ -896,18 +888,10 @@ ul {
 }
 
 @media (max-width: 380px) {
-  .card1 {
-    transform: scale(0.7);
+  .flip-card {
+    transform: scale(0.75);
   }
-  .card2 {
-    transform: scale(0.7);
-  }
-  .card3 {
-    transform: scale(0.7);
-  }
-  .card4 {
-    transform: scale(0.7);
-  }
+
   .outerContainer {
     padding: 10px 5px;
   }
