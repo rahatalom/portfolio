@@ -84,10 +84,7 @@ function Projects() {
         <div className="flip-card">
           <div className="flip-card-inner">
             <div class="flip-card-front">
-              <div
-                class="card card1"
-                style={{ width: "230px", height: "325px" }}
-              >
+              <div class="card card1">
                 <div id="one" class="card-body">
                   <div class="proj-text-1">
                     <ul>
@@ -119,10 +116,7 @@ function Projects() {
         <div className="flip-card">
           <div className="flip-card-inner">
             <div class="flip-card-front">
-              <div
-                class="card card2"
-                style={{ width: "230px", height: "325px" }}
-              >
+              <div class="card card2">
                 <div id="two" class="card-body">
                   <div class="proj-text-2">
                     <ul>
@@ -154,10 +148,7 @@ function Projects() {
         <div className="flip-card">
           <div className="flip-card-inner">
             <div class="flip-card-front">
-              <div
-                class="card card3"
-                style={{ width: "230px", height: "325px" }}
-              >
+              <div class="card card3">
                 <div id="three" class="card-body">
                   <div class="proj-text-3">
                     <ul>
@@ -188,10 +179,7 @@ function Projects() {
         <div className="flip-card">
           <div className="flip-card-inner">
             <div class="flip-card-front">
-              <div
-                class="card card4"
-                style={{ width: "230px", height: "325px" }}
-              >
+              <div class="card card4">
                 <div id="four" class="card-body">
                   <div class="proj-text-4">
                     <ul>
