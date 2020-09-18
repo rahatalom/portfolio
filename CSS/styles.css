@@ -680,7 +680,7 @@ ul {
 
 @media (max-width: 440px) {
   .modal-content {
-    transform: scale(0.65);
+    transform: scale(0.6);
   }
   .proj-1-box {
     width: 410px;
@@ -695,16 +695,16 @@ ul {
     width: 408px;
   }
   .modal-trial-2 {
-    width: 400px;
+    width: 410px;
   }
   .proj-2-box {
-    width: 400px;
+    width: 410px;
   }
   .proj-2-header {
-    width: 400px;
+    width: 410px;
   }
   .modal-top2 {
-    width: 400px;
+    width: 410px;
   }
 }
 
@@ -867,7 +867,7 @@ ul {
     transform: scale(0.9);
   }
   .first-set:hover {
-    transform: scale(1.01) translateY(0.2rem);
+    transform: scale(1.001) translateY(0.2rem);
     -webkit-filter: drop-shadow(1.5px 1.5px 4px #222);
     filter: drop-shadow(1.5px 1.5px 4px #222);
     z-index: 20;
@@ -936,7 +936,7 @@ ul {
     transform: scale(0.8);
   }
   .first-set:hover {
-    transform: scale(1.01) translateY(0.2rem);
+    transform: scale(1.001) translateY(0.2rem);
     -webkit-filter: drop-shadow(1.5px 1.5px 4px #222);
     filter: drop-shadow(1.5px 1.5px 4px #222);
     z-index: 20;
