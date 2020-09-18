@@ -807,6 +807,9 @@ ul {
 }
 
 @media (max-width: 440px) {
+  .outerContainer {
+    padding: 10px 0;
+  }
   .intro-title {
     font-size: 1.1rem;
     text-align: center;
@@ -849,6 +852,9 @@ ul {
 }
 
 @media (max-width: 380px) {
+  .outerContainer {
+    padding: 10px 0;
+  }
   .intro-title {
     font-size: 0.8rem;
   }
