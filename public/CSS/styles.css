@@ -682,6 +682,8 @@ ul {
   .modal-content {
     transform: scale(0.4);
     position: absolute;
+    flex-direction: row;
+    justify-content: space-around;
   }
   /* .proj-1-box {
     width: 410px;
