@@ -682,7 +682,7 @@ ul {
   .modal-content {
     transform: scale(0.6);
   }
-  .proj-1-box {
+  /* .proj-1-box {
     width: 410px;
   }
   .proj-1-header {
@@ -705,7 +705,7 @@ ul {
   }
   .modal-top2 {
     width: 410px;
-  }
+  } */
 }
 
 @media (max-width: 854px) {
