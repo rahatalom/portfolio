@@ -680,7 +680,19 @@ ul {
 
 @media (max-width: 440px) {
   .modal-content {
-    transform: scale(0.7);
+    transform: scale(0.65);
+  }
+  .proj-4-box {
+    width: 455px;
+  }
+  .proj-4-header {
+    width: 455px;
+  }
+  .proj-2-box {
+    width: 450px;
+  }
+  .proj-2-header {
+    width: 450px;
   }
 }
 
