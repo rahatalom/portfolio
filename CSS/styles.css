@@ -696,7 +696,7 @@ ul {
 
 @media (max-width: 440px) {
   .modal-content {
-    transform: scale(0.4);
+    transform: scale(0.425);
 
     flex-direction: row;
     justify-content: space-between;
@@ -888,10 +888,6 @@ ul {
 }
 
 @media (max-width: 380px) {
-  .flip-card {
-    transform: scale(0.75);
-  }
-
   .outerContainer {
     padding: 10px 5px;
   }
