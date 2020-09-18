@@ -811,10 +811,16 @@ ul {
     padding: 10px 5px;
   }
   .outer2 {
-    padding: 10px 10px;
+    padding: 10px 5px;
+  }
+  .outer3 {
+    padding: 10px 5px;
+  }
+  .outer4 {
+    padding: 10px 5px;
   }
   .intro-title {
-    font-size: 1.3rem;
+    font-size: 1.4rem;
     text-align: center;
   }
   .intro-div {
@@ -830,7 +836,7 @@ ul {
     width: 116px;
   }
   .first-set {
-    transform: scale(0.8);
+    transform: scale(0.9);
   }
   .card1 {
     height: 300px;
@@ -861,8 +867,14 @@ ul {
   .outer2 {
     padding: 10px 10px;
   }
+  .outer3 {
+    padding: 10px 5px;
+  }
+  .outer4 {
+    padding: 10px 5px;
+  }
   .intro-title {
-    font-size: 1rem;
+    font-size: 1.2rem;
   }
   .intro-title-div {
     display: flex;
@@ -881,7 +893,7 @@ ul {
     width: 88px;
   }
   .first-set {
-    transform: scale(0.7);
+    transform: scale(0.8);
   }
   .card1 {
     height: 290px;
