@@ -700,10 +700,13 @@ ul {
 
 @media (max-width: 440px) {
   .modal-content {
-    transform: scale(0.43);
+    transform: scale(0.46);
 
     flex-direction: row;
     justify-content: space-between;
+  }
+  .modal {
+    padding-right: 150px;
   }
 
   .modal-open {
