@@ -681,7 +681,7 @@ ul {
 @media (max-width: 440px) {
   .modal-content {
     transform: scale(0.5);
-    position: absolute;
+
     flex-direction: row;
     justify-content: space-between;
   }
