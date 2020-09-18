@@ -680,9 +680,10 @@ ul {
 
 @media (max-width: 440px) {
   .modal-content {
-    transform: scale(0.5);
-
-    flex-direction: column;
+    transform: scale(0.45);
+    position: absolute;
+    flex-direction: row;
+    justify-content: space-between;
   }
   /* .proj-1-box {
     width: 410px;
