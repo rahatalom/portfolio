@@ -696,7 +696,7 @@ ul {
 
 @media (max-width: 440px) {
   .modal-content {
-    transform: scale(0.42);
+    transform: scale(0.43);
 
     flex-direction: row;
     justify-content: space-between;
