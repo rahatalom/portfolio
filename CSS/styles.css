@@ -149,6 +149,22 @@
 }
 
 /*Projects  */
+.card1 {
+  width: 230px;
+  height: 325px;
+}
+.card2 {
+  width: 230px;
+  height: 325px;
+}
+.card3 {
+  width: 230px;
+  height: 325px;
+}
+.card4 {
+  width: 230px;
+  height: 325px;
+}
 .outer4 {
   padding: 10px 60px;
 }
@@ -831,6 +847,19 @@ ul {
   .outer5 {
     padding: 10px 5px;
   }
+
+  .card1 {
+    transform: scale(0.8);
+  }
+  .card2 {
+    transform: scale(0.8);
+  }
+  .card3 {
+    transform: scale(0.8);
+  }
+  .card4 {
+    transform: scale(0.8);
+  }
   .intro-title {
     font-size: 1.4rem;
     text-align: center;
@@ -859,22 +888,7 @@ ul {
     box-shadow: 0 4px 8px 2px rgba(0, 0, 0, 0.7),
       0 6px 20px 2px rgba(0, 0, 0, 0.7);
   }
-  .card1 {
-    height: 300px;
-    width: 205px;
-  }
-  .card2 {
-    height: 300px;
-    width: 205px;
-  }
-  .card3 {
-    height: 300px;
-    width: 205px;
-  }
-  .card4 {
-    height: 300px;
-    width: 205px;
-  }
+
   .intro-title-div {
     display: flex;
     flex-direction: column;
@@ -882,6 +896,18 @@ ul {
 }
 
 @media (max-width: 380px) {
+  .card1 {
+    transform: scale(0.7);
+  }
+  .card2 {
+    transform: scale(0.7);
+  }
+  .card3 {
+    transform: scale(0.7);
+  }
+  .card4 {
+    transform: scale(0.7);
+  }
   .outerContainer {
     padding: 10px 5px;
   }
