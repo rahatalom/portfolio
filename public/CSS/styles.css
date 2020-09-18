@@ -692,6 +692,10 @@ ul {
   .modal-content {
     transform: scale(0.7);
   }
+  .modal-open {
+    padding: 0;
+    text-align: center;
+  }
 }
 
 @media (max-width: 440px) {
@@ -700,6 +704,11 @@ ul {
 
     flex-direction: row;
     justify-content: space-between;
+  }
+
+  .modal-open {
+    padding: 0;
+    text-align: center;
   }
   /* .proj-1-box {
     width: 410px;
