@@ -395,17 +395,11 @@
   width: 230px;
   height: 325px;
 
-  background-color: burlywood;
-  background-image: linear-gradient(
-    to right bottom,
-    rgba(195, 133, 62, 0.396),
-    rgba(207, 109, 28, 0.843)
-  );
+  transition: 0.6s;
 
-  transition: transform 0.6s;
-
-  -webkit-transition: -webkit-transform 0.6s;
+  -webkit-transition: 0.6s;
   transform-style: preserve-3d;
+  -webkit-transform-style: preserve-3d;
 }
 
 .flip-card:hover .flip-card-inner {
