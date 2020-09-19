@@ -403,6 +403,10 @@
   );
 
   transition: transform 0.6s;
+  -o-transition: -o-transform 0.6s;
+  -moz-transition: -moz-transform 0.6s;
+
+  -webkit-transition: -webkit-transform 0.6s;
   transform-style: preserve-3d;
 }
 
