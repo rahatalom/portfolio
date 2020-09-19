@@ -425,10 +425,6 @@
   height: 325px;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  -webkit-transition: 0.6s;
-  transition: 0.6s;
-  -webkit-transform-style: preserve-3d;
-  transform-style: preserve-3d;
 }
 
 .flip-card-front {
