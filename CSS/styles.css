@@ -408,6 +408,9 @@
 
 .flip-card:hover .flip-card-inner {
   transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
 }
 
 .flip-card-front,
@@ -431,6 +434,9 @@
   height: 325px;
 
   transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
 }
 
 .back-1 {
@@ -700,7 +706,7 @@ ul {
 
 @media (max-width: 440px) {
   .modal-content {
-    transform: scale(0.46);
+    transform: scale(0.48);
 
     flex-direction: row;
     justify-content: space-between;
