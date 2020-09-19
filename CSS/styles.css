@@ -420,6 +420,11 @@
   height: 325px;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
+  -webkit-perspective: 0;
+
+  -webkit-transform: translate3d(0, 0, 0);
+  visibility: visible;
+  backface-visibility: hidden;
 }
 
 .flip-card-front {
@@ -704,9 +709,9 @@ ul {
   }
 }
 
-@media (max-width: 440px) {
+@media (max-width: 420px) {
   .modal-content {
-    transform: scale(0.48);
+    transform: scale(0.52);
 
     flex-direction: row;
     justify-content: space-between;
