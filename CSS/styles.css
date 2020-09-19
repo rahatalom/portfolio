@@ -420,11 +420,6 @@
   height: 325px;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  -webkit-perspective: 0;
-
-  -webkit-transform: translate3d(0, 0, 0);
-  visibility: visible;
-  backface-visibility: hidden;
 }
 
 .flip-card-front {
@@ -851,6 +846,21 @@ ul {
   .intro-title {
     text-align: center;
     font-size: 1.5rem;
+  }
+  .outerContainer {
+    padding: 10px 5px;
+  }
+  .outer2 {
+    padding: 10px 5px;
+  }
+  .outer3 {
+    padding: 10px 5px;
+  }
+  .outer4 {
+    padding: 10px 5px;
+  }
+  .outer5 {
+    padding: 10px 5px;
   }
 }
 
