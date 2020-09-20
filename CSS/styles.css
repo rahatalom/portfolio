@@ -916,12 +916,6 @@ ul {
 }
 
 @media (max-width: 380px) {
-  .proj-1-title {
-    font-size: 1rem;
-  }
-  .proj-3-title {
-    font-size: 2rem;
-  }
   .outerContainer {
     padding: 10px 5px;
   }
