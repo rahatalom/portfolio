@@ -100,7 +100,7 @@ function Projects() {
               <p
                 style={{ marginTop: "95px", color: "white", fontSize: "18px" }}
               >
-                The simon game made with JavaScript
+                 Simon game made with JavaScript
               </p>
               <button
                 onClick={handleShow}
